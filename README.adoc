@@ -18,3 +18,5 @@ Actual: there's a line break between list item marker and list item text.
 Screenshot from FBReader 3.0.31 for Android (this is the latest version available as of 2019-12-20):
 
 image::fbreader-screenshot.png[]
+
+If `<span class="principal">` is changed to just `<span>` in `OEBPS/_chapter1.xhtml` inside epub file, then lists are rendered as expected.
