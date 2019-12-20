@@ -15,6 +15,6 @@ Expected: list item text starts on the same line as list item marker
 
 Actual: there's a line break between list item marker and list item text.
 
-Screenshot from the latest available FBReader for Android  (as of 2019-12-20):
+Screenshot from FBReader 3.0.31 for Android (this is the latest version available as of 2019-12-20):
 
 image::fbreader-screenshot.png[]
